@@ -1,8 +1,8 @@
-# React + Vite
+# Vježba 2
+## Koristite i CSS da napravite : 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Zadatak](https://raw.githubusercontent.com/Asabeneh/30-Days-Of-React/master/images/components_example.png)
 
-Currently, two official plugins are available:
+Svaka od "kutija" neka sa okvirom u boji bude svoja komponenta.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### **Koristite semantičke element poput header, footer, nav, section, article...**
