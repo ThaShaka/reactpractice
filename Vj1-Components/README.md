@@ -6,5 +6,6 @@
 - Body 
 - Footer
 
-
+3. Unutar njih može biti samo div i unutar njega h1 u kojem pise koja je to komponenta
+4. Napravite Pull Request
 
